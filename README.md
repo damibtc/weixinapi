@@ -1,9 +1,6 @@
----
-title:API 文档
-type:docs
-order:3
-isnew:0
----
+#联系作者微信
+
+![20190923155502.png](https://raw.githubusercontent.com/damibtc/weixinapi/master/img/weixin.jpg)
 
 ## 第一步
 ### 开发者登录
